@@ -1,4 +1,3 @@
-#Dive into Data Science - Code Repository
 This repository contains code examples and projects from Dive into Data Science by Bradford Tuckfield. The book is an essential resource for aspiring data scientists, providing a hands-on approach to mastering key concepts and techniques in data science.
 
 Overview
